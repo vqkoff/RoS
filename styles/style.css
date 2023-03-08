@@ -49,6 +49,7 @@ body {
   text-align: center;
   width: 60%;
   margin: auto;
+  box-shadow: 3px 3px 22px 1px #000000;
 }
 
 .card-con {
